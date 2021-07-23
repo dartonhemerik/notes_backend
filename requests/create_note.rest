@@ -2,6 +2,6 @@ POST http://localhost:3001/api/notes
 Content-Type: application/json
 
 {
-  "content": "VS Code client is preferred when using REST.",
+  "content": "Frontend build is transferred to backend and now works in Heroku.",
   "important": false
 }
